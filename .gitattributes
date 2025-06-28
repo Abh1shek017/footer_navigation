@@ -1,0 +1,10 @@
+﻿android/** linguist-vendored
+ios/** linguist-vendored
+macos/** linguist-vendored
+linux/** linguist-vendored
+windows/** linguist-vendored
+build/** linguist-vendored
+**/Pods/** linguist-vendored
+**/gradle/** linguist-vendored
+**/gradlew linguist-vendored
+**/gradlew.bat linguist-vendored
